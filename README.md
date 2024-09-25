@@ -1,4 +1,4 @@
-#Projeto Algoritmos (Alura 2)
+Projeto Algoritmos (Alura 2)
 
 Desenvolvido por Jamile Cristina, da turma 3C;
 
